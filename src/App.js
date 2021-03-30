@@ -112,7 +112,7 @@ const App = () => {
             </>
           )}
         />
-        <Route path='/about' component={About} />
+        <Route path='/About' component={About} />
         <Footer />
       </div>
     </Router>
